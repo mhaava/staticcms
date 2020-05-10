@@ -1,0 +1,25 @@
+{
+  "localization": [
+    {
+      "code": "en",
+      "name": "english",
+      "default": true
+    },
+    {
+      "code": "et",
+      "name": "eesti",
+      "default": false
+    },
+    {
+      "code": "ru",
+      "name": "pусский",
+      "default": false
+    }
+  ],
+  "administrators": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
